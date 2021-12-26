@@ -1,0 +1,24 @@
+{
+  "name": "angularproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "browser-sync": "^2.27.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "browser-sync start --server --directory --files **/* "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arnold-bornagain/angularProject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arnold-bornagain/angularProject/issues"
+  },
+  "homepage": "https://github.com/Arnold-bornagain/angularProject#readme"
+}
